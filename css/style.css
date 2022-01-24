@@ -1,0 +1,54 @@
+/* package */
+.package-area {
+	margin-top: 100px;
+}
+.package-text span {
+	font-size: 30px;
+	font-weight: 600;
+}
+.package-text h3 {
+	font-size: 25px;
+	font-weight: 600;
+}
+.package-text p {
+	font-size: 17px;
+	color: #89869D;
+}
+.package-list {
+	margin-left: -35px;
+}
+.package-list ul li {
+	list-style: none;
+}
+.package-list i {
+	background: #EDEBF8;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	border-radius: 50%;
+	color: #5C4EC5;
+	margin-top: 10px;
+    font-size: 10px;
+}
+.package-list ul li a {
+	color: #89869D;
+	text-decoration: none;
+	margin-left: 5px;
+}
+.package-list:hover > li a {
+	color: #fff;
+}
+.btn button {
+	outline: none;
+	color: #3F87F5;
+	border: 0;
+	background: #fff;
+	font-weight: 600;
+}
+.single-package:hover{
+    background: #3F87F5;
+    color: #fff;
+    padding: 15px 20px;
+    border-radius: 25px;
+}
